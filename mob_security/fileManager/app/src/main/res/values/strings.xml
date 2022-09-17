@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fileManager</string>
+    <string name="buttonText">Read File</string>
+    <string name="viewText">write some data</string>
+    <string name="showText">file content</string>
+    <string name="writeBtn">Write to File</string>
+    <string name="generateMesBtn">Generate</string>
+
+</resources>

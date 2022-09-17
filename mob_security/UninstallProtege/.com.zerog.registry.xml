@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry install_date="2022-02-18 18:53:05" version="1.1" last_modified="2022-02-18 18:53:10">
+	<products>
+		<product name="Protege 4.3" id="994d7f3a-1ec1-11b2-b321-ef29621bcc1c" version="1.0.0.0" copyright="2008" info_url="" support_url="" location="D:\уник\mob security" last_modified="2022-02-18 18:53:05">
+		<![CDATA[]]>
+			<vendor name="Stanford Center for Biomedical Informatics Research" id="994d7f3b-1ec1-11b2-b320-ef29621bcc1c" home_page="http://bmir.stanford.edu/" email="vendetti@stanford.edu"/>
+			<feature short_name="Typical" name="Typical" last_modified="2022-02-18 18:53:05">
+			<![CDATA[Typical Protege System]]>
+				<component ref_id="353eb459-1ee5-11b2-ae1d-9e0cb39d55d7" version="1.0.0.0" location="D:\уник\mob security\UninstallProtege\Uninstall Protege.exe"/>
+				<component ref_id="353eb45a-1ee5-11b2-ae1f-9e0cb39d55d7" version="1.0.0.0" location="D:\уник\mob security\jre"/>
+			</feature>
+		</product>
+	</products>
+	<components>
+		<component id="353eb459-1ee5-11b2-ae1d-9e0cb39d55d7" version="1.0.0.0" name="InstallAnywhere Uninstall Component" location="D:\уник\mob security\UninstallProtege\Uninstall Protege.exe" vendor="Stanford Center for Biomedical Informatics Research">
+			<resource keyfile="false" name="Protege_4.3_Install_02_18_2022_18_53_05.log" location="D:\уник\mob security\UninstallProtege\Logs\Protege_4.3_Install_02_18_2022_18_53_05.log" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="jre" location="D:\уник\mob security\jre" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="lax.jar" location="D:\уник\mob security\lax.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="Protege.exe" location="D:\уник\mob security\Protege.exe" type="executable" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="Protege.lax" location="D:\уник\mob security\Protege.lax" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="Protege.ico" location="D:\уник\mob security\Protege.ico" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="bin" location="D:\уник\mob security\bin" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="bnd.jar" location="D:\уник\mob security\bin\bnd.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="dev-tools.jar" location="D:\уник\mob security\bin\dev-tools.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="felix.jar" location="D:\уник\mob security\bin\felix.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ProtegeLauncher.jar" location="D:\уник\mob security\bin\ProtegeLauncher.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="version.txt" location="D:\уник\mob security\bin\version.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="bundles" location="D:\уник\mob security\bundles" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="org.apache.felix.bundlerepository-1.4.2.jar" location="D:\уник\mob security\bundles\org.apache.felix.bundlerepository-1.4.2.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.apache.felix.configadmin.jar" location="D:\уник\mob security\bundles\org.apache.felix.configadmin.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.apache.felix.scr.jar" location="D:\уник\mob security\bundles\org.apache.felix.scr.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.eclipse.equinox.common.jar" location="D:\уник\mob security\bundles\org.eclipse.equinox.common.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.eclipse.equinox.registry.jar" location="D:\уник\mob security\bundles\org.eclipse.equinox.registry.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.eclipse.equinox.supplement.jar" location="D:\уник\mob security\bundles\org.eclipse.equinox.supplement.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.common.jar" location="D:\уник\mob security\bundles\org.protege.common.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.editor.core.application.jar" location="D:\уник\mob security\bundles\org.protege.editor.core.application.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.jaxb.jar" location="D:\уник\mob security\bundles\org.protege.jaxb.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="plugins" location="D:\уник\mob security\plugins" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="ca.uvic.cs.chisel.cajun.jar" location="D:\уник\mob security\plugins\ca.uvic.cs.chisel.cajun.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.coode.dlquery.jar" location="D:\уник\mob security\plugins\org.coode.dlquery.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.coode.owlviz.jar" location="D:\уник\mob security\plugins\org.coode.owlviz.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.editor.owl.codegeneration.jar" location="D:\уник\mob security\plugins\org.protege.editor.owl.codegeneration.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.editor.owl.diff.jar" location="D:\уник\mob security\plugins\org.protege.editor.owl.diff.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.editor.owl.jar" location="D:\уник\mob security\plugins\org.protege.editor.owl.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.editor.owl.rdf.jar" location="D:\уник\mob security\plugins\org.protege.editor.owl.rdf.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.explanation.jar" location="D:\уник\mob security\plugins\org.protege.explanation.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.ontograf.jar" location="D:\уник\mob security\plugins\org.protege.ontograf.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.owl.diff.jar" location="D:\уник\mob security\plugins\org.protege.owl.diff.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.protege.owl.rdf.jar" location="D:\уник\mob security\plugins\org.protege.owl.rdf.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.semanticweb.HermiT.jar" location="D:\уник\mob security\plugins\org.semanticweb.HermiT.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="org.semanticweb.owl.owlapi.jar" location="D:\уник\mob security\plugins\org.semanticweb.owl.owlapi.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="uk.ac.manchester.cs.owl.factplusplus.jar" location="D:\уник\mob security\plugins\uk.ac.manchester.cs.owl.factplusplus.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="build.properties" location="D:\уник\mob security\build.properties" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="config.xml" location="D:\уник\mob security\config.xml" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="log4j.xml" location="D:\уник\mob security\log4j.xml" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="run.bat" location="D:\уник\mob security\run.bat" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="UninstallProtege" location="D:\уник\mob security\UninstallProtege" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="Logs" location="D:\уник\mob security\UninstallProtege\Logs" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|983103||STRING|$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|983103|" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|DisplayName|STRING|Protege 4.3$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|DisplayName" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="uninstaller.jar" location="D:\уник\mob security\UninstallProtege\uninstaller.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="true" name="Uninstall Protege.exe" location="D:\уник\mob security\UninstallProtege\Uninstall Protege.exe" type="executable" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="Uninstall Protege.lax" location="D:\уник\mob security\UninstallProtege\Uninstall Protege.lax" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="resource" location="D:\уник\mob security\UninstallProtege\resource" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="iawin64_x64.dll" location="D:\уник\mob security\UninstallProtege\resource\iawin64_x64.dll" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="iawin32.dll" location="D:\уник\mob security\UninstallProtege\resource\iawin32.dll" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="remove.exe" location="D:\уник\mob security\UninstallProtege\resource\remove.exe" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|DisplayName|STRING|Protege 4.3$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|DisplayName" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|UninstallString|STRING|&quot;D:\уник\mob security\UninstallProtege\Uninstall Protege.exe&quot;$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|UninstallString" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|Publisher|STRING|Stanford Center for Biomedical Informatics Research$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|Publisher" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|URLInfoAbout|STRING|http://bmir.stanford.edu/$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|URLInfoAbout" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|Contact|STRING|vendetti@stanford.edu$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|Contact" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|ProductID|STRING|994d7f3a-1ec1-11b2-b321-ef29621bcc1c$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|ProductID" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|InstallLocation|STRING|D:\уник\mob security$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|InstallLocation" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|InstallDate|STRING|Fri Feb 18 18:53:09 BDT 2022$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|InstallDate" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="win_reg_entry" location="$INSTALLED$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|DisplayVersion|STRING|1.0.0.0$DELETE$|HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3|131103|DisplayVersion" type="win_reg_entry" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="Protege.ico" location="D:\уник\mob security\Protege.ico" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="Protege.lnk" location="C:\Users\Almas\OneDrive\Рабочий стол\Protege.lnk" type="shortcut" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[]]>
+			</resource>
+			<resource keyfile="false" name="ZGWin32LaunchHelper.exe" location="D:\уник\mob security\UninstallProtege\resource\ZGWin32LaunchHelper.exe" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name=".com.zerog.registry.xml" location="D:\уник\mob security\UninstallProtege\.com.zerog.registry.xml" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+		</component>
+		<component id="353eb45a-1ee5-11b2-ae1f-9e0cb39d55d7" version="1.0.0.0" name="InstallAnywhere VM Component" location="D:\уник\mob security\jre" vendor="Stanford Center for Biomedical Informatics Research">
+			<resource keyfile="true" name="jre" location="D:\уник\mob security\jre" type="post_processed_dir" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+		</component>
+	</components>
+</registry>

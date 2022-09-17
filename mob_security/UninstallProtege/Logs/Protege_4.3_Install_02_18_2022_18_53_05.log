@@ -1,0 +1,333 @@
+__________________________________________________________________________
+
+Fri Feb 18 18:53:29 BDT 2022
+
+Free Memory: 21546 kB
+Total Memory: 32384 kB
+
+java.class.path:
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\InstallerData\IAClasses.zip
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\InstallerData\Execute.zip
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\InstallerData\Execute.zip
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\InstallerData\Resource1.zip
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\InstallerData\Resource1.zip
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\InstallerData
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\InstallerData\IAClasses.zip
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\InstallerData\Execute.zip
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\InstallerData
+
+sun.boot.class.path:
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\lib\resources.jar
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\lib\rt.jar
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\lib\jsse.jar
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\lib\jce.jar
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\lib\charsets.jar
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre\lib\ext
+    C:\WINDOWS\Sun\Java\lib\ext
+
+java.version                  == 1.6.0_01 (Java 1)
+java.vm.name                  == Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor                == Sun Microsystems Inc.
+java.vm.version               == 1.6.0_01-b06
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Sun Microsystems Inc.
+java.vm.specification.version == 1.0
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Sun Microsystems Inc.
+java.specification.version    == 1.6
+java.vendor                   == Sun Microsystems Inc.
+java.vendor.url               == http://java.sun.com/
+java.class.version            == 50.0
+java.compiler                 == null
+java.home                     == C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows\resource\jre
+java.io.tmpdir                == C:\Users\Almas\AppData\Local\Temp\
+os.name                       == Windows Vista
+os.arch                       == amd64
+os.version                    == 6.2
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1252
+user.name                     == Almas
+user.home                     == C:\Users\Almas\OneDrive
+user.dir                      == C:\Users\Almas\AppData\Local\Temp\I1645188730\Windows
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+Installed Feature(s) Typical of Protege 4.3
+
+Install Begin: FEBRUARY 18, 2022 6:52:13 PM BDT
+Install End: FEBRUARY 18, 2022 6:53:10 PM BDT
+
+Installed by InstallAnywhere 14.0 Enterprise Build 4390
+
+
+User Interactions
+-----------------
+
+
+#Choose Install Folder
+#---------------------
+USER_INSTALL_DIR=D:\\????\\mob security
+
+#Choose Shortcut Folder
+#----------------------
+USER_SHORTCUTS=C:\\Users\\Almas\\OneDrive\\??????? ????
+
+#Choose Java Virtual Machine
+#---------------------------
+JDK_HOME=
+JAVA_DOT_HOME=$USER_INSTALL_DIR$$/$jre
+JAVA_EXECUTABLE=D:\\????\\mob security\\jre\\bin\\java.exe
+
+#Install
+#-------
+-fileOverwrite_D\:\\????\\mob\ security\\Protege.lax=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\Protege.ico=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\build.properties=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\config.xml=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\log4j.xml=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\run.bat=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\UninstallProtege\\Uninstall\ Protege.lax=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\UninstallProtege\\resource\\iawin64_x64.dll=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\UninstallProtege\\resource\\iawin32.dll=Yes
+-fileOverwrite_D\:\\????\\mob\ security\\UninstallProtege\\resource\\remove.exe=Yes
+
+Summary
+-------
+
+Installation: Successful.
+
+66 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Check Disk Space:         C:\Program Files\Protege_4.3
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 90,327,359; Free Disk Space: 137,346,940,928
+
+Check Disk Space:         D:\????\mob security
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 90,327,359; Free Disk Space: 120,905,011,200
+
+Check Disk Space:         D:\????\mob security
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 90,327,359; Free Disk Space: 120,905,011,200
+
+Install Directory:        D:\????\mob security\jre
+                          Status: SUCCESSFUL
+
+Install JRE:              D:\????\mob security\jre
+                          Status: SUCCESSFUL
+
+Install Directory:        D:\????\mob security\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Create LaunchAnywhere:    Protege.exe (Install All LaunchAnywhere Java Executable Components)
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\Protege.exe
+                          Status: SUCCESSFUL
+
+
+Install File:             D:\????\mob security\Protege.lax
+                          Status: SUCCESSFUL
+
+Create LaunchAnywhere:    Protege.exe (Install All LaunchAnywhere Java Executable Components)
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\Protege.ico
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bin\bnd.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bin\dev-tools.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bin\felix.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bin\ProtegeLauncher.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bin\version.txt
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.apache.felix.bundlerepository-1.4.2.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.apache.felix.configadmin.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.apache.felix.scr.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.eclipse.equinox.common.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.eclipse.equinox.registry.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.eclipse.equinox.supplement.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.protege.common.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.protege.editor.core.application.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\bundles\org.protege.jaxb.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\ca.uvic.cs.chisel.cajun.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.coode.dlquery.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.coode.owlviz.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.editor.owl.codegeneration.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.editor.owl.diff.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.editor.owl.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.editor.owl.rdf.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.explanation.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.ontograf.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.owl.diff.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.protege.owl.rdf.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.semanticweb.HermiT.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\org.semanticweb.owl.owlapi.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\plugins\uk.ac.manchester.cs.owl.factplusplus.jar
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\build.properties
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\config.xml
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\log4j.xml
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\run.bat
+                          Status: SUCCESSFUL
+
+Install Directory:        D:\????\mob security\UninstallProtege\
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      Protege 4.3(Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\UninstallProtege\Uninstall Protege.exe
+                          Status: SUCCESSFUL
+
+
+Install File:             D:\????\mob security\UninstallProtege\Uninstall Protege.lax
+                          Status: SUCCESSFUL
+
+Install Directory:        D:\????\mob security\UninstallProtege\resource\
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\UninstallProtege\resource\iawin64_x64.dll
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\UninstallProtege\resource\iawin32.dll
+                          Status: SUCCESSFUL
+
+Install File:             D:\????\mob security\UninstallProtege\resource\remove.exe
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: DisplayName
+                          Value Data: Protege 4.3
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: UninstallString
+                          Value Data: "D:\????\mob security\UninstallProtege\Uninstall Protege.exe"
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: Publisher
+                          Value Data: Stanford Center for Biomedical Informatics Research
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: URLInfoAbout
+                          Value Data: http://bmir.stanford.edu/
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: Contact
+                          Value Data: vendetti@stanford.edu
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: ProductID
+                          Value Data: 994d7f3a-1ec1-11b2-b321-ef29621bcc1c
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: InstallLocation
+                          Value Data: D:\????\mob security
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: InstallDate
+                          Value Data: Fri Feb 18 18:53:09 BDT 2022
+                          Status: SUCCESSFUL
+
+Make Registry Entry:      Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Protege 4.3
+                          Value Name: DisplayVersion
+                          Value Data: 1.0.0.0
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      Protege 4.3(Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+Install Directory:        C:\Users\Almas\OneDrive\??????? ????\
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Create Shortcut:          C:\Users\Almas\OneDrive\??????? ????\Protege.lnk
+                          Status: SUCCESSFUL
+
+
